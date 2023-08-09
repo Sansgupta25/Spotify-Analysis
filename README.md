@@ -1,5 +1,3 @@
-
-```markdown
 # Spotify Data Analysis using Tableau 🎶📊
 
 Explore the wonderful world of music with our Spotify Data Analysis project, powered by Tableau. Dive into the rhythms, melodies, and insights behind your favorite tracks and artists.
@@ -11,7 +9,8 @@ Explore the wonderful world of music with our Spotify Data Analysis project, pow
 - [Installation](#installation)
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
-
+- [Contributing](#contributing)
+- [License](#license)
 
 ## Introduction 🎧
 
@@ -42,8 +41,7 @@ Welcome to our Spotify Data Analysis project! Music lovers, rejoice—this proje
 - Python: Optional scripting for data preprocessing and cleaning.
 
 
----
 
 Uncover the stories behind your favorite tunes with our Spotify Data Analysis project. Let the data reveal the magic of music! 🎵🔍
-```
+
 
